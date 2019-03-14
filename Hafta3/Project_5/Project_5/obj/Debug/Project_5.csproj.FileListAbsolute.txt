@@ -1,0 +1,14 @@
+C:\Users\Jellybeanci\source\repos\Project_5\Project_5\bin\Debug\Project_5.exe.config
+C:\Users\Jellybeanci\source\repos\Project_5\Project_5\bin\Debug\Project_5.exe
+C:\Users\Jellybeanci\source\repos\Project_5\Project_5\bin\Debug\Project_5.pdb
+C:\Users\Jellybeanci\source\repos\Project_5\Project_5\obj\Debug\Project_5.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\Project_5\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\Project_5\Project_5\obj\Debug\Project_5.exe
+C:\Users\Jellybeanci\source\repos\Project_5\Project_5\obj\Debug\Project_5.pdb
+C:\ERU\Güz\Object Oriented Programming\C#\Hafta3\Project_5\Project_5\bin\Debug\Project_5.exe.config
+C:\ERU\Güz\Object Oriented Programming\C#\Hafta3\Project_5\Project_5\bin\Debug\Project_5.exe
+C:\ERU\Güz\Object Oriented Programming\C#\Hafta3\Project_5\Project_5\bin\Debug\Project_5.pdb
+C:\ERU\Güz\Object Oriented Programming\C#\Hafta3\Project_5\Project_5\obj\Debug\Project_5.csprojAssemblyReference.cache
+C:\ERU\Güz\Object Oriented Programming\C#\Hafta3\Project_5\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+C:\ERU\Güz\Object Oriented Programming\C#\Hafta3\Project_5\Project_5\obj\Debug\Project_5.exe
+C:\ERU\Güz\Object Oriented Programming\C#\Hafta3\Project_5\Project_5\obj\Debug\Project_5.pdb

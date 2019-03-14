@@ -1,0 +1,7 @@
+C:\Users\Jellybeanci\source\repos\Project_2\Project_2\bin\Debug\Project_2.exe.config
+C:\Users\Jellybeanci\source\repos\Project_2\Project_2\bin\Debug\Project_2.exe
+C:\Users\Jellybeanci\source\repos\Project_2\Project_2\bin\Debug\Project_2.pdb
+C:\Users\Jellybeanci\source\repos\Project_2\Project_2\obj\Debug\Project_2.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\Project_2\Project_2\obj\Debug\Project_2.exe
+C:\Users\Jellybeanci\source\repos\Project_2\Project_2\obj\Debug\Project_2.pdb

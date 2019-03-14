@@ -1,0 +1,6 @@
+C:\Users\Jellybeanci\source\repos\Project_3\Project_3\bin\Debug\Project_3.exe.config
+C:\Users\Jellybeanci\source\repos\Project_3\Project_3\bin\Debug\Project_3.exe
+C:\Users\Jellybeanci\source\repos\Project_3\Project_3\bin\Debug\Project_3.pdb
+C:\Users\Jellybeanci\source\repos\Project_3\Project_3\obj\Debug\Project_3.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\Project_3\Project_3\obj\Debug\Project_3.exe
+C:\Users\Jellybeanci\source\repos\Project_3\Project_3\obj\Debug\Project_3.pdb

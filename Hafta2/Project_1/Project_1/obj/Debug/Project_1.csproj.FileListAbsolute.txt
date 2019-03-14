@@ -1,0 +1,7 @@
+C:\ERU\Object Oriented Programming\Hafta2\Project_1\Project_1\bin\Debug\Project_1.exe.config
+C:\ERU\Object Oriented Programming\Hafta2\Project_1\Project_1\bin\Debug\Project_1.exe
+C:\ERU\Object Oriented Programming\Hafta2\Project_1\Project_1\bin\Debug\Project_1.pdb
+C:\ERU\Object Oriented Programming\Hafta2\Project_1\Project_1\obj\Debug\Project_1.csprojAssemblyReference.cache
+C:\ERU\Object Oriented Programming\Hafta2\Project_1\Project_1\obj\Debug\Project_1.csproj.CoreCompileInputs.cache
+C:\ERU\Object Oriented Programming\Hafta2\Project_1\Project_1\obj\Debug\Project_1.exe
+C:\ERU\Object Oriented Programming\Hafta2\Project_1\Project_1\obj\Debug\Project_1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg4\Uyg4\bin\Debug\Uyg4.exe.config
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg4\Uyg4\bin\Debug\Uyg4.exe
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg4\Uyg4\bin\Debug\Uyg4.pdb
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg4\Uyg4\obj\Debug\Uyg4.exe
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg4\Uyg4\obj\Debug\Uyg4.pdb
+G:\Bahriye_Belgeler\Dersler\MF\oop\2017_2018\web\nesne27112017\Uyg4\Uyg4\bin\Debug\Uyg4.exe.config
+G:\Bahriye_Belgeler\Dersler\MF\oop\2017_2018\web\nesne27112017\Uyg4\Uyg4\obj\Debug\Uyg4.exe
+G:\Bahriye_Belgeler\Dersler\MF\oop\2017_2018\web\nesne27112017\Uyg4\Uyg4\obj\Debug\Uyg4.pdb

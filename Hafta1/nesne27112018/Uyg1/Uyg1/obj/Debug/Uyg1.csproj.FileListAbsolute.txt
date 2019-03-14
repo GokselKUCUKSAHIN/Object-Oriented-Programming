@@ -1,0 +1,9 @@
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg1\Uyg1\bin\Debug\Uyg1.exe.config
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg1\Uyg1\bin\Debug\Uyg1.exe
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg1\Uyg1\bin\Debug\Uyg1.pdb
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg1\Uyg1\obj\Debug\Uyg1.csprojResolveAssemblyReference.cache
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg1\Uyg1\obj\Debug\Uyg1.exe
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg1\Uyg1\obj\Debug\Uyg1.pdb
+G:\Bahriye_Belgeler\Dersler\MF\oop\2017_2018\web\nesne27112017\Uyg1\Uyg1\bin\Debug\Uyg1.exe.config
+G:\Bahriye_Belgeler\Dersler\MF\oop\2017_2018\web\nesne27112017\Uyg1\Uyg1\obj\Debug\Uyg1.exe
+G:\Bahriye_Belgeler\Dersler\MF\oop\2017_2018\web\nesne27112017\Uyg1\Uyg1\obj\Debug\Uyg1.pdb

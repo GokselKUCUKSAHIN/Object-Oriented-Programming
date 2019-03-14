@@ -1,0 +1,8 @@
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg3\Uyg3\bin\Debug\Uyg3.exe.config
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg3\Uyg3\bin\Debug\Uyg3.exe
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg3\Uyg3\bin\Debug\Uyg3.pdb
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg3\Uyg3\obj\Debug\Uyg3.exe
+C:\Users\Bahriye\Desktop\nesne27112017\Uyg3\Uyg3\obj\Debug\Uyg3.pdb
+G:\Bahriye_Belgeler\Dersler\MF\oop\2017_2018\web\nesne27112017\Uyg3\Uyg3\bin\Debug\Uyg3.exe.config
+G:\Bahriye_Belgeler\Dersler\MF\oop\2017_2018\web\nesne27112017\Uyg3\Uyg3\obj\Debug\Uyg3.exe
+G:\Bahriye_Belgeler\Dersler\MF\oop\2017_2018\web\nesne27112017\Uyg3\Uyg3\obj\Debug\Uyg3.pdb
